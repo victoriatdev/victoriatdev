@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victoria</h1>
+<h1 align="center">Hi, I'm Victoria👋</h1>
 <h3 align="center">A software engineer from the UK building projects, kicking pipelines and chewing tickets. And I'm all out of tickets.</h3>
 
 - 🔭 I’m currently working on [Learning OpenGL!](https://github.com/victoriatdev/learning-opengl)
@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **logic, shader programming and videogames!**
 
-- 📫 How to reach me **victoriartilley@gmail.com**
+- 📫 How to reach me via email: **victoriartilley@gmail.com**
 
-- ⚡ Fun fact **the furthest you can get from a road in the UK is 7 miles, which is about as far away as anyone should reasonably be from anyone else.**
+- ⚡ Fun fact: **The furthest you can get from a road in the UK is 7 miles, which is about as far away as anyone should reasonably be from anyone else.**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

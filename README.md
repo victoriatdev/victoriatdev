@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **OpenGL, Go and more C++**
 
-- 👨‍💻 All of my projects are available at [vtilley.com](vtilley.com)
+- 👨‍💻 All of my projects are available at [vtilley.com](https://vtilley.com)
 
-- 📝 I regularly write articles on [vtilley.com/blog](vtilley.com/blog)
+- 📝 I regularly write articles on [vtilley.com/blog](https://vtilley.com/blog)
 
 - 💬 Ask me about **logic, shader programming and videogames!**
 

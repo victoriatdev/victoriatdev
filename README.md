@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Victoria👋</h1>
 <h3 align="center">A software engineer from the UK building projects, kicking pipelines and chewing tickets. And I'm all out of tickets.</h3>
 
-- 🔭 I’m currently working on [Learning OpenGL!](https://github.com/victoriatdev/learning-opengl)
+- 🔭 I’m currently working on [Learning OpenGL](https://github.com/victoriatdev/learning-opengl) and [Amber!](https://github.com/victoriatdev/amber)
 
 - 🌱 I’m currently learning **OpenGL, Go and more C++**
 

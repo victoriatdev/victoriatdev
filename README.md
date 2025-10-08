@@ -18,6 +18,7 @@
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [The Purpose of Leetcode](https://vtilley.com/blog/the-value-of-leetcode/)
+- [Calculogic](https://vtilley.com/projects/calculogic/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
